@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@prismicio/client": "latest",
+		"node-fetch": "^2.6.7"
+	}
+}
