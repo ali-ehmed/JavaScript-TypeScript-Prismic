@@ -88,7 +88,7 @@
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
-    "@vitest/coverage-v8": "^2.0.4",
+    "@vitest/coverage-v8": "^5.0.5",
     "abort-controller": "^3.0.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
@@ -104,7 +104,7 @@
     "typescript": "^5.5.4",
     "vite": "^5.3.5",
     "vite-plugin-sdk": "^0.1.2",
-    "vitest": "^2.0.4"
+    "vitest": "^5.0.5"
   },
   "engines": {
     "node": ">=14.15.0"
